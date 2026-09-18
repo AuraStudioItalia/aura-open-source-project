@@ -4,7 +4,7 @@
        alt="Aura Banner">
 </div>
 
-# 🚀 Aura Open Source Hub
+# 🚀 Aura Open Source Project
 
 Benvenuto/a nella **repository centrale open-source dell’ecosistema Aura**.
 
